@@ -30,6 +30,6 @@ The main objective is to transform a raw dataset into an analytic tool for **Pow
 * Definition of the main KPIs and visual architecture.
 
 ## Key Findings
-* **Most products are accessible:** Almost the entire catalog is concentrated between $0 and $10,000 MXN with a customer rating from 4.68 to 5.
-* **Good online availability:** 78% of the catalog products are available to buy via the website.
-* **Most expensive products also satisfy the customer:** Most expensive products (between $40,000 and $80,000) represent a small volume of sales, but keep a high rating score. This could mean that customers feel that quality justifies the price.
+* **Catalog Price Distribution:** Most products fall between $0 and $10,000 MXN with a customer rating from 4.68 to 5.
+* **Good online availability:** 78% of the entire catalog products are available to buy via the website. This provides a baseline for monitoring catalog availability.
+* **High priced products and customer ratings:** Products priced between $40,000 and $80,000 show high ratings in this subset. Further analysis of review counts and categories would be needed to stablish conclusions about a relationship between price and satisfaction.
