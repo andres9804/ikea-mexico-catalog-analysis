@@ -32,4 +32,4 @@ The main objective is to transform a raw dataset into an analytic tool for **Pow
 ## Key Findings
 * **Catalog Price Distribution:** Most products fall between $0 and $10,000 MXN with a customer rating from 4.68 to 5.
 * **Good online availability:** 78% of the entire catalog products are available to buy via the website. This provides a baseline for monitoring catalog availability.
-* **High priced products and customer ratings:** Products priced between $40,000 and $80,000 show high ratings in this subset. Further analysis of review counts and categories would be needed to stablish conclusions about a relationship between price and satisfaction.
+* **High priced products and customer ratings:** Products priced between $40,000 and $80,000 show high ratings in this subset. Further analysis of review counts and categories would be needed to establish conclusions about a relationship between price and satisfaction.
